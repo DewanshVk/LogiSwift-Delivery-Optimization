@@ -36,7 +36,7 @@ LogiSwift’s outdated slot allocation system caused:
 ---
 
 ## 📂 Project Structure  
-
+```
 logiswift-delivery-optimization/
 │
 ├── README.md
@@ -52,7 +52,7 @@ logiswift-delivery-optimization/
 │
 ├── images/
 | └── Dashboard.jpeg
-
+```
 ---
 
 ## 🛠️ Methodology  
