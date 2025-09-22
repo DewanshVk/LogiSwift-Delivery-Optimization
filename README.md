@@ -1,9 +1,4 @@
 # 🚚 LogiSwift Delivery Optimization (LSDO) Project  
-
-![Python](https://img.shields.io/badge/Python-EDA%20%7C%20ML-blue)  
-![Power BI](https://img.shields.io/badge/PowerBI-Interactive%20Dashboard-yellow)  
-![Status](https://img.shields.io/badge/Status-Ongoing-green)  
-
 ---
 
 ## 📌 Executive Summary  
@@ -72,26 +67,6 @@ logiswift-delivery-optimization/
 Here’s the interactive Power BI dashboard used in this project:  
 
 ![Delivery Optimization Dashboard](images/Dashboard.jpeg)  
-
----
-
-## 🤖 Model Performance – Logistic Regression  
-
-**Final Test AUC:** 0.4969  
-
-**Classification Report:**  
-
-| Class       | Precision | Recall | F1-Score | Support |  
-|-------------|-----------|--------|----------|---------|  
-| 0 (On-time) | 0.84      | 1.00   | 0.92     | 3653    |  
-| 1 (Delayed) | 0.00      | 0.00   | 0.00     | 673     |  
-
-- **Accuracy:** 0.84  
-- **Macro Avg F1:** 0.46  
-- **Weighted Avg F1:** 0.77  
-
-📉 **Insight:** Logistic regression underperformed in predicting delays (AUC ~0.5).  
-➡️ Indicates **linear models are not sufficient**, tree-based methods (XGBoost, LightGBM) are recommended.  
 
 ---
 
