@@ -37,17 +37,13 @@ LogiSwift’s outdated slot allocation system caused:
 
 ## 📂 Project Structure  
 
- **10M+ monthly orders**  
-- Deploy a **Power BI dashboard** for real-time decision making  
-
----
 logiswift-delivery-optimization/
 │
 ├── README.md
 ├── requirements.txt
 │── LogiSwift_Delivery_Optimization_Report.pdf
 |── LogiSwift_Delivery_Optimization_nb.pdf
-|
+│
 ├── notebooks/
 │ └── Delivery_Optimization_nb.ipynb
 │
@@ -55,9 +51,7 @@ logiswift-delivery-optimization/
 │ └── LSDO_Dashboard.pbix
 │
 ├── images/
-|  └── Dashboard.jpeg
-
-
+| └── Dashboard.jpeg
 
 ---
 
