@@ -1,5 +1,5 @@
 # 🚚 LogiSwift Delivery Optimization (LSDO) Project  
----
+
 
 ## 📌 Executive Summary  
 LogiSwift, a leading last-mile delivery partner in India, faced significant challenges with delivery slot allocation.  
@@ -11,7 +11,7 @@ LogiSwift, a leading last-mile delivery partner in India, faced significant chal
 
 ✅ Using **Python (EDA, Logistic Regression)** and **Power BI (Interactive Dashboard)**, this project demonstrates how predictive analytics and real-time dashboards can optimize delivery performance, improve on-time rates, and reduce costs.  
 
----
+
 
 ## 🏢 Business Problem  
 LogiSwift’s outdated slot allocation system caused:  
@@ -20,7 +20,7 @@ LogiSwift’s outdated slot allocation system caused:
 - Decreasing repeat contracts (−8%)  
 - Growing competition with modernized systems  
 
----
+
 
 ## 🎯 Objectives  
 - Improve **on-time delivery rate** by 20%  
@@ -28,7 +28,7 @@ LogiSwift’s outdated slot allocation system caused:
 - Build a scalable predictive model for **10M+ monthly orders**  
 - Deploy a **Power BI dashboard** for real-time decision making  
 
----
+
 
 ## 📂 Project Structure  
 ```
@@ -48,7 +48,7 @@ logiswift-delivery-optimization/
 ├── images/
 | └── Dashboard.jpeg
 ```
----
+
 
 ## 🛠️ Methodology  
 
@@ -61,14 +61,14 @@ logiswift-delivery-optimization/
 - KPIs: On-time %, Cost per Delivery, Delay Trends  
 - Visualizations: Trend charts, courier performance, confusion matrix  
 
----
+
 
 ## 📊 Dashboard Preview  
 Here’s the interactive Power BI dashboard used in this project:  
 
 ![Delivery Optimization Dashboard](images/Dashboard.jpeg)  
 
----
+
 
 ## ✅ Results & Business Recommendations  
 - Current baseline model shows **84% overall accuracy** but fails to capture late deliveries.  
@@ -78,7 +78,7 @@ Here’s the interactive Power BI dashboard used in this project:
   - Implement **address data cleaning** (25% noisy data)  
   - Improve **courier allocation system** using predictive scores  
 
----
+
 
 ## 🔮 Next Steps  
 - Deploy tree-based predictive models (XGBoost/LightGBM)  
@@ -86,7 +86,7 @@ Here’s the interactive Power BI dashboard used in this project:
 - Run **A/B testing** with improved slot allocation strategies  
 - Scale dashboard for **10M+ monthly orders**  
 
----
+
 
 ## 📂 Appendix / Definitions  
 - **On-time Rate** = % of orders delivered within promised window  
@@ -94,7 +94,7 @@ Here’s the interactive Power BI dashboard used in this project:
 - **Churn Indicator** = Whether customer stopped using service after late delivery  
 - **Logistic Regression Coefficients Table** *(to be inserted)*  
 
----
+
 
 ## 🤝 Call to Action  
 
