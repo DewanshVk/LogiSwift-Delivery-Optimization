@@ -6,8 +6,8 @@ LogiSwift, a leading last-mile delivery partner in India, faced significant chal
 
 -  25% of deliveries missed promised 2-hour/same-day slots  
 -  Partner NPS dropped by 12 points  
--  Revenue loss of ₹12 crore last quarter due to cancellations  
--  Risk of ₹30 crore loss in upcoming festive season  
+-  Revenue loss in last quarter due to cancellations  
+-  Risk of loss in upcoming festive season  
 
 Using **Python (EDA, Logistic Regression)** and **Power BI (Interactive Dashboard)**, this project demonstrates how predictive analytics and real-time dashboards can optimize delivery performance, improve on-time rates, and reduce costs.  
 
